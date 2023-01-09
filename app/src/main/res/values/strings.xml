@@ -1,0 +1,21 @@
+<resources>
+    <!--  Application name  -->
+    <string name="app_name">Расписание ЮРГПУ НПИ</string>
+    <string name="logo_description">Логотип ЮРГПУ НПИ</string>
+    <string name="faculty_spinner_description">Выбор факультета</string>
+    <string name="year_spinner_description">Выбор курса</string>
+    <string name="group_spinner_description">Выбор группы</string>
+    <!--  Welcome message on main activity, displays update date  -->
+    <string name="welcome_message">Выберите курс и факультет.</string>
+    <string name="update_date_message">В последний раз расписание обновлялось %s.</string>
+    <string name="error_message">Не удалось получить информацию с сервера из-за сетевой ошибки.</string>
+    <string-array name="years">
+        <item>1 курс</item>
+        <item>2 курс</item>
+        <item>3 курс</item>
+        <item>4 курс</item>
+        <item>5 курс</item>
+        <item>6 курс</item>
+    </string-array>
+    <string name="schedule_view_button">Открыть расписание</string>
+</resources>

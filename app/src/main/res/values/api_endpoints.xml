@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Last update date  -->
+    <string name="api_last_updated">https://schedule.npi-tu.ru/api/v1/last-updated</string>
+    <!--  Info lines which shown at main page  -->
+    <string name="api_information_lines">https://schedule.npi-tu.ru/api/v1/inf-lines</string>
+    <!--  Class intervals  -->
+    <string name="api_class_intervals">https://schedule.npi-tu.ru/api/v1/class-intervals</string>
+    <!--  Class types  -->
+    <string name="api_class_types">https://schedule.npi-tu.ru/api/v1/class-types</string>
+    <!--  Faculties  -->
+    <string name="api_faculties">https://schedule.npi-tu.ru/api/v1/faculties</string>
+    <!--  Auditoriums search  -->
+    <string name="api_auditorium_search">https://schedule.npi-tu.ru/api/v1/auditoriums/%s</string>
+    <!--  Lecturers search  -->
+    <string name="api_lecturers_search">https://schedule.npi-tu.ru/api/v1/lecturers/%s</string>
+    <!--  Groups list  -->
+    <string name="api_group_list">https://schedule.npi-tu.ru/api/v1/faculties/%1$s/years/%2$s/groups</string>
+    <!--  Auditorium schedule  -->
+    <string name="api_auditorium_schedule">https://schedule.npi-tu.ru/api/v2/auditoriums/%s/schedule</string>
+    <!--  Lecturer schedule  -->
+    <string name="api_lecturer_schedule">https://schedule.npi-tu.ru/api/v2/lecturers/%s/schedule</string>
+    <!--  Lecturer finals  -->
+    <string name="api_lecturer_finals">https://schedule.npi-tu.ru/api/v1/lecturers/%s/finals-schedule</string>
+    <!--  Student schedule  -->
+    <string name="api_student_schedule">https://schedule.npi-tu.ru/api/v1/faculties/%1$s/years/%2$s/groups/%3$s/schedule</string>
+    <!--  Student finals  -->
+    <string name="api_student_finals">https://schedule.npi-tu.ru/api/v1/faculties/%1$s/years/%2$s/groups/%3$s/finals-schedule</string>
+</resources>
